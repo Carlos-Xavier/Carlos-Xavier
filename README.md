@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **cexbezerra@gmail.com**
 
-- ⚡ Fun fact **I love draw.**
+- ⚡ Fun fact: **I love draw.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
