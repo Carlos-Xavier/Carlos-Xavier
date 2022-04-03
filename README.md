@@ -21,8 +21,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-xavier&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="carlos-xavier" />
 </div>
 
-<div style="display: inline_block">
-<img src="https://github-readme-stats.vercel.app/api?username=carlos-xavier&show_icons=true&locale=en&theme=tokyonight" alt="carlos-xavier" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-xavier&theme=tokyonight" alt="carlos-xavier" />
+<div align="center" style="display:flex">
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=carlos-xavier&show_icons=true&locale=en&theme=tokyonight" alt="carlos-xavier" />
+<img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-xavier&theme=tokyonight" alt="carlos-xavier" />
 </div>
 
