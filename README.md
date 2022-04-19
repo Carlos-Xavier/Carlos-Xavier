@@ -23,6 +23,6 @@
 
 <div align="center" style="display:flex">
  <img width="395" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-xavier&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="carlos-xavier" />
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=carlos-xavier&show_icons=true&locale=en&theme=tokyonight" alt="carlos-xavier" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=carlos-xavier&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="carlos-xavier"  />
 </div>
 
