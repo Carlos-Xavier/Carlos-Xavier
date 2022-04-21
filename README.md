@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Eduardo</h1>
 <h3 align="center">I'm a computer science student at Universidade Federal de Alagoas - UFAL.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-xavier&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-xavier" /> </p>
-
 - 🌱 I’m currently learning **React, Node, TypeScript**
 
 - 📫 How to reach me **cexbezerra@gmail.com**
