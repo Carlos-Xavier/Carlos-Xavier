@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Eduardo</h1>
 <h3 align="center">I'm a computer science student at Universidade Federal de Alagoas - UFAL.</h3>
 
-- 🌱 I’m currently learning **React, Node, TypeScript**
-
 - 📫 How to reach me **cexbezerra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
